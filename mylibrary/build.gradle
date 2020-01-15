@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='https://github.com/Howard-mo'
+group='com.github.Howard-mo'
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
