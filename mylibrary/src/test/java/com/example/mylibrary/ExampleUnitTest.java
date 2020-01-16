@@ -1,4 +1,4 @@
-package com.duzepen.mylibrary;
+package com.example.mylibrary;
 
 import org.junit.Test;
 
